@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[shp:home|Door43 (shp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-shp|d43-shp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-shp/archive/master.zip|d43-shp.zip]]
+
+**Recent Changes**
+{{changes>ns = shp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/shp|Ethnologue data]]
+
